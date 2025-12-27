@@ -12,6 +12,7 @@ This project demonstrates basic Python programming, data handling, and logic use
 ## Example Output
 <br>
 Student report
+<br>
 --------------
 <br>
 Name : Ali
@@ -52,6 +53,7 @@ Remark : Good
 - Allow input for multiple students
 - Store reports in a CSV file
 - Add GUI for better user interaction
+
 
 
 
