@@ -1,6 +1,5 @@
 # Student Marks Analyzer
-A Python program to take student marks, calculate total, average, highest, and lowest marks, and display a grade with remarks.
-<br>  
+A Python program to take student marks, calculate total, average, highest, and lowest marks, and display a grade with remarks. 
 This project demonstrates basic Python programming, data handling, and logic useful for future ML projects.
 
 ## Features
@@ -39,3 +38,4 @@ Remark : Good
 - Allow input for multiple students
 - Store reports in a CSV file
 - Add GUI for better user interaction
+
