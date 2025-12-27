@@ -19,28 +19,27 @@ Name : Ali
 Roll no. : 24
 <br>
 enter marks 1: 78
-
+<br>
 enter marks 2: 89
-
+<br>
 enter marks 3: 90
-
+<br>
 enter marks 4: 92
-
+<br>
 enter marks 5: 86
-
-
+<br>
 Marks : [78, 89, 90, 92, 86]
-
+<br>
 Total :  435
-
+<br>
 Average :  87.0
-
+<br>
 Highest :  92
-
+<br>
 Lowest :  78
-
+<br>
 Grade : B 
-
+<br>
 Remark : Good 
 
 ## Skills Used
@@ -53,5 +52,6 @@ Remark : Good
 - Allow input for multiple students
 - Store reports in a CSV file
 - Add GUI for better user interaction
+
 
 
