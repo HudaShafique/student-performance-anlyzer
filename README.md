@@ -23,7 +23,7 @@ Enter marks 1: 78
 <br>
 Enter marks 2: 89
 <br>
-enter marks 3: 90
+Enter marks 3: 90
 <br>
 enter marks 4: 92
 <br>
