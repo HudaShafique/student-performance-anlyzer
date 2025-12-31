@@ -21,7 +21,7 @@ Roll no. : 24
 <br>
 Enter marks 1: 78
 <br>
-enter marks 2: 89
+Enter marks 2: 89
 <br>
 enter marks 3: 90
 <br>
