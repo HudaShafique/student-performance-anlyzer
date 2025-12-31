@@ -27,7 +27,7 @@ Enter marks 3: 90
 <br>
 Enter marks 4: 92
 <br>
-enter marks 5: 86
+Enter marks 5: 86
 <br>
 Marks : [78, 89, 90, 92, 86]
 <br>
