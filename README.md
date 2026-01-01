@@ -19,7 +19,7 @@ Name : Ali
 <br>
 Roll no. : 24
 <br>
-Enter marks 1: 78
+enter marks 1: 78
 <br>
 Enter marks 2: 89
 <br>
