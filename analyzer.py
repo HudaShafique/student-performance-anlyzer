@@ -7,7 +7,7 @@ roll_no =  int(input("Roll no. : "))
 marks = []
 
 for i in range(5):
-    item = int(input(f"enter marks {i+1}: "))
+    item = int(input(f"Enter marks {i+1}: "))
     marks.append(item)
 
 print("\nMarks :", marks)
